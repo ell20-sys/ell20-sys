@@ -1,5 +1,5 @@
 <h1 align="center">Hi i'm Elliot Awe</h1>
-<h3 align="center">A passionate frontend developer from Indi</h3>
+<h3 align="center">🚀 Tech is cool 🌐 | Currently immersed in frontend wonders, with an eye on the vast tech landscape! 💻</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
